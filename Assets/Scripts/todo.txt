@@ -1,0 +1,10 @@
+// add items: matches, map, dictionary, pages, heal
+//design the levels
+//add transitions
+//add the rest of the puzzles
+//add ambient noises
+//add clues
+//add secret rooms
+//add enemies
+//add bosses
+//make torch sounds less laggy
